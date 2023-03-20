@@ -1,0 +1,33 @@
+{
+  "name": "try1",
+  "version": "1.0.0",
+  "description": "just try",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akshad11/Try.git"
+  },
+  "keywords": [
+    "plz"
+  ],
+  "author": "AkshadDhole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akshad11/Try/issues"
+  },
+  "homepage": "https://github.com/Akshad11/Try#readme",
+  "dependencies": {
+    "cloudinary": "^1.35.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.21"
+  }
+}

@@ -1,0 +1,7 @@
+POST http://localhost:3001/new
+
+Content-Type: application/json
+{
+    "Name":"Akshad Dhole",
+    "PhoneNo" : "98408284"
+}
