@@ -63,7 +63,7 @@ router.get('/new/:id', async (req, res) => {
     }
 
 })
-router.get('/new/:id', async (req, res) => {
+router.get('/new', async (req, res) => {
 
     try {
         const _id = req.params.id;
